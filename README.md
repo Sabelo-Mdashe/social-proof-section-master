@@ -26,9 +26,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-- GitHub Repo URL: [Add github URL here](https://github.com/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/social-proof-section-pzeULDnBkW)
+- Live Site URL: [Add live site URL here](https://kaleidoscopic-kheer-c89811.netlify.app/)
+- GitHub Repo URL: [Add github URL here](https://github.com/Sabelo-Mdashe/social-proof-section-master)
 
 ## My process
 
@@ -43,5 +43,5 @@ Users should be able to:
 
 - Website - [Sabelo Mdashe](http://sabelomdashe.co.za)
 - Frontend Mentor - [@Sabelo-Mdashe](https://www.frontendmentor.io/profile/Sabelo-Mdashe)
-- GitHub - [@GitHub-Mdashe](https://github.)
+- GitHub - [@Sabelo-Mdashe](https://github.com/Sabelo-Mdashe)
 
